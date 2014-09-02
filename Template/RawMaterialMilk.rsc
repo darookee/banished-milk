@@ -40,7 +40,7 @@ ModelDescription model
 {
 	MeshGroup _meshes
 	[
-		{ GraphicsMesh _mesh [ "Models\Resources\MilkMesh.rsc" ] }
+		{ GraphicsMesh _mesh [ "Models\Resources\AleMesh.rsc" ] }
 	]
 
 	int _displayIndex = 0;
